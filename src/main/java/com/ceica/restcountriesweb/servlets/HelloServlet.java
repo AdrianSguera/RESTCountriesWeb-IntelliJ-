@@ -1,4 +1,4 @@
-package com.ceica.restcountriesweb;
+package com.ceica.restcountriesweb.servlets;
 
 import java.io.*;
 import java.util.Arrays;
